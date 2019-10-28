@@ -9,3 +9,7 @@
 - install nodemon as a development dependency ==> 'npm i -D nodemon'
 - add an 'index.js' file to the root folder with a console.log()
 - run the API using 'npm run server' to make sure everything works
+
+
+## Basic Express Server
+-install 'express' as a production dependence => 'npm i express'
